@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+transformers
+datasets
+accelerate
+sentencepiece
+protobuf
+scikit-learn
+pandas
+tqdm
+pymorphy2
+nltk
