@@ -7,7 +7,7 @@ questions = [
     "где документация",
 
     # FastAPI и backend
-    "как настроить postgresql в fastapi",
+
     "uvicorn не запускается ошибка",
     "как добавить cors в fastapi",
     "jwt токен как проверить",
@@ -72,7 +72,7 @@ answers = [
     "docs на сайте fastapi",
 
     # FastAPI и backend
-    "DATABASE_URL в .env укажи postgresql://...",
+
     "pip install uvicorn[standard] && pip install psycopg2",
     "from fastapi.middleware.cors import CORSMiddleware",
     "@app.post('/login') def login(): return jwt.encode(...)",
