@@ -1,0 +1,12 @@
+{
+  "total_examples": 60965,
+  "train_size": 48772,
+  "val_size": 6096,
+  "test_size": 6097,
+  "sources": {
+    "b2b_pairs": 881,
+    "sberquad": 25000,
+    "russian_superglue": 27143,
+    "platform_facts": 12
+  }
+}
