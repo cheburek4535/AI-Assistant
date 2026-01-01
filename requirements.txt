@@ -1,9 +1,7 @@
 torch
 torchvision
 torchaudio
-transformers
 datasets
-accelerate
 sentencepiece
 protobuf
 scikit-learn
@@ -11,3 +9,8 @@ pandas
 tqdm
 pymorphy2
 nltk
+transformers
+accelerate
+peft # Для эффективного обучения
+bitsandbytes # Для 4-bit квантования
+wandb  # Для визуализации (опционально)
